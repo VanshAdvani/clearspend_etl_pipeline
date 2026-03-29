@@ -11,5 +11,5 @@ Note that before running the code, you must input your PostGres Server details, 
 Link to the datasets : https://www.dropbox.com/scl/fi/jbksqcmsfd2erbpbqalff/Dataset-final-project.zip?rlkey=ftldt0rk5j4ofvxum1ggiwhn1&e=1&dl=0
 
 Created by : 
-Advani Vansh (i6348194), Brînzilă Stefan (i6342386), Kaefer Ben (i6357052), Velenciuc Cristian (i6364905)
+Advani Vansh (i6348194), Brînzilă Ștefan (i6342386), Kaefer Ben (i6357052), Velenciuc Cristian (i6364905)
 
